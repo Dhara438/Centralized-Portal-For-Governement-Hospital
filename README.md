@@ -1,7 +1,9 @@
 # Centralized-Portal-For-Governement-Hospital
 
 Frontend - HTML , CSS , BOOTSTRAP , JavaScript
+
 Backend - PHP , JavaScript
+
 Database - MySQL
 
 Video of User_Module and Admin_Module 
